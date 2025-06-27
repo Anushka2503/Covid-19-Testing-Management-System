@@ -69,22 +69,6 @@ Accessible through the website URL:
 
 ---
 
-## 📸 Screenshots
-
-- New User Testing Page  
-  (screenshots/User-Testing.png)
-
-- Admin Dashboard  
-  (screenshots/Dashboard.png)
-
-- Test Details  
-  (screenshots/Test-Details.png)
-
-- State-wise Dashboard  
-  (screenshots/Testing-Dashboard.png)
-
----
-
 ## 📄 Disclaimer
 
 This project was developed purely for **academic demonstration**. It is based on open-source web development practices and is not intended for real-time deployment in healthcare environments.
